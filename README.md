@@ -1,3 +1,5 @@
+https://capsule-render.vercel.app/api?type=waving&height=110&color=FFF95B&text=Input%20text&section=header&reversal=false
+
 # 👋 Olá, eu sou EDUARDA OLIVEIRA!
 
 💻 **Dev em evolução 🚀**  
