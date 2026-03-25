@@ -1,4 +1,4 @@
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FFF95B&section=header&reversal=false&textBg=false"/>
 
 # 👋 Olá, eu sou EDUARDA OLIVEIRA!
 
@@ -20,3 +20,5 @@
 ---
 
 ✨ **Foco em desenvolvimento de soluções práticas e evolução constante.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FFF95B&section=footer&reversal=false&textBg=false"/>
