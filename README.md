@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou EDUARDA OLIVEIRA!
 
 💻 **Dev em evolução 🚀**  
 🎓 Análise e Desenvolvimento de Sistemas (3º semestre)  
@@ -14,9 +14,6 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
-
-## 📊 GitHub Stats
-![Seu GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
 
 ---
 
