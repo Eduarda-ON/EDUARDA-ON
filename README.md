@@ -16,4 +16,18 @@
 
 ---
 
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-on&layout=compact&theme=radical"/>
+</p>
+
+---
+
+<h2 align="center">📫 Contato</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=238737&fontAlign=50&fontSize=50&animation=scaleIn&textBg=false&descAlign=1&fontColor=ffffff&section=footer"/>
