@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduarda-ON&layout=compact&theme=radical&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduarda-ON&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
